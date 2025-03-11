@@ -1,0 +1,289 @@
+Here is the JSON array of objects:
+
+[
+  {
+    "type": "CMP",
+    "fileName": "dashboard.component.ts",
+    "description": "Implements the logic for the dashboard component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.component.html",
+    "description": "Provides the markup for the dashboard component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.component.css",
+    "description": "Defines the styles for the dashboard component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.tiles.component.ts",
+    "description": "Implements the logic for a tile component of the dashboard."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.tiles.component.html",
+    "description": "Provides the markup for a tile component of the dashboard."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.tiles.component.css",
+    "description": "Defines the styles for a tile component of the dashboard."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.search.component.ts",
+    "description": "Implements the logic for the search component of the dashboard."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.search.component.html",
+    "description": "Provides the markup for the search component of the dashboard."
+  },
+  {
+    "type": "CMP",
+    "fileName": "dashboard.search.component.css",
+    "description": "Defines the styles for the search component of the dashboard."
+  },
+  {
+    "type": "SRV",
+    "fileName": "dashboard.service.ts",
+    "description": "Provides functionality for the dashboard component."
+  },
+  {
+    "type": "PAGE",
+    "fileName": "dashboard.page.ts",
+    "description": "Implements the logic for the dashboard page."
+  },
+  {
+    "type": "ST",
+    "fileName": "dashboard.store.ts",
+    "description": "Manages state for the dashboard component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "signin.component.ts",
+    "description": "Implements the logic for the sign-in component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "signin.component.html",
+    "description": "Provides the markup for the sign-in component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "signin.component.css",
+    "description": "Defines the styles for the sign-in component."
+  },
+  {
+    "type": "SRV",
+    "fileName": "auth.service.ts",
+    "description": "Provides authentication functionality."
+  },
+  {
+    "type": "PAGE",
+    "fileName": "login.page.ts",
+    "description": "Implements the logic for the login page."
+  },
+  {
+    "type": "ST",
+    "fileName": "auth.store.ts",
+    "description": "Manages state for the authentication component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.component.ts",
+    "description": "Implements the logic for the Learning Management System (LMS) component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.component.html",
+    "description": "Provides the markup for the LMS component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.component.css",
+    "description": "Defines the styles for the LMS component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.leave.component.ts",
+    "description": "Implements the logic for the leave component of the LMS."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.leave.component.html",
+    "description": "Provides the markup for the leave component of the LMS."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.leave.component.css",
+    "description": "Defines the styles for the leave component of the LMS."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.manager.component.ts",
+    "description": "Implements the logic for the manager component of the LMS."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.manager.component.html",
+    "description": "Provides the markup for the manager component of the LMS."
+  },
+  {
+    "type": "CMP",
+    "fileName": "lms.manager.component.css",
+    "description": "Defines the styles for the manager component of the LMS."
+  },
+  {
+    "type": "SRV",
+    "fileName": "lms.service.ts",
+    "description": "Provides functionality for the LMS component."
+  },
+  {
+    "type": "PAGE",
+    "fileName": "lms.page.ts",
+    "description": "Implements the logic for the LMS page."
+  },
+  {
+    "type": "ST",
+    "fileName": "lms.store.ts",
+    "description": "Manages state for the LMS component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.component.ts",
+    "description": "Implements the logic for the pods component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.component.html",
+    "description": "Provides the markup for the pods component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.component.css",
+    "description": "Defines the styles for the pods component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.search.component.ts",
+    "description": "Implements the logic for the search component of the pods."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.search.component.html",
+    "description": "Provides the markup for the search component of the pods."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.search.component.css",
+    "description": "Defines the styles for the search component of the pods."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.table.component.ts",
+    "description": "Implements the logic for the table component of the pods."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.table.component.html",
+    "description": "Provides the markup for the table component of the pods."
+  },
+  {
+    "type": "CMP",
+    "fileName": "pods.table.component.css",
+    "description": "Defines the styles for the table component of the pods."
+  },
+  {
+    "type": "SRV",
+    "fileName": "pods.service.ts",
+    "description": "Provides functionality for the pods component."
+  },
+  {
+    "type": "PAGE",
+    "fileName": "pods.page.ts",
+    "description": "Implements the logic for the pods page."
+  },
+  {
+    "type": "ST",
+    "fileName": "pods.store.ts",
+    "description": "Manages state for the pods component."
+  },
+  {
+    "type": "FILE",
+    "fileName": "constants.ts",
+    "description": "Defines constants for the application."
+  },
+  {
+    "type": "FILE",
+    "fileName": "enums.ts",
+    "description": "Defines enumerations for the application."
+  },
+  {
+    "type": "FILE",
+    "fileName": "types.ts",
+    "description": "Defines types for the application."
+  },
+  {
+    "type": "CMP",
+    "fileName": "navigation.component.ts",
+    "description": "Implements the logic for the navigation component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "navigation.component.html",
+    "description": "Provides the markup for the navigation component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "navigation.component.css",
+    "description": "Defines the styles for the navigation component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "footer.component.ts",
+    "description": "Implements the logic for the footer component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "footer.component.html",
+    "description": "Provides the markup for the footer component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "footer.component.css",
+    "description": "Defines the styles for the footer component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "header.component.ts",
+    "description": "Implements the logic for the header component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "header.component.html",
+    "description": "Provides the markup for the header component."
+  },
+  {
+    "type": "CMP",
+    "fileName": "header.component.css",
+    "description": "Defines the styles for the header component."
+  },
+  {
+    "type": "APP",
+    "fileName": "app.component.ts",
+    "description": "Implements the logic for the app component."
+  },
+  {
+    "type": "APP",
+    "fileName": "app.module.ts",
+    "description": "Defines the app module configuration."
+  },
+  {
+    "type": "APP",
+    "fileName": "app-routing.module.ts",
+    "description": "Defines the app routing configuration."
+  }
+]

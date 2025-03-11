@@ -1,0 +1,2 @@
+aws s3 sync . s3://dna-autodidact-production-bucket/repos/hu-sp-40dcee176-final-assignment-scaffolding_python-1741175099093/master/ --delete --exclude ./venv/\* --exclude ./env/\*
+echo Success
